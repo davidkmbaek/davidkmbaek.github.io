@@ -33,6 +33,7 @@ Sergeant, Republic of Korea Army, Camp Humphreys
 - Managed social media accounts as the brigade’s Public Affairs Representative.
 
 [Facebook] (https://www.facebook.com/501MIBDE/)
+
 [Instagram] (https://www.instagram.com/501stmib_t/)
 
 ### Awards
