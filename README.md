@@ -2,13 +2,16 @@
 
 ### Education
 Sungkyunkwan University
+
 Bachelor of Science in Chemical Engineering
 - GPA: 3.9/4.0
 - Expected Graduation: February 2026
 
 The Pennsylvania State University
+
 Exchange Student Program
 - GPA: 4.0/4.0
+
 
 ### Research Experience
 Sungkyunkwan University, Department of Chemical Engineering
@@ -23,6 +26,7 @@ Sungkyunkwan University, Department of Chemistry
 - Analyzed the electronic properties of MXenes and applied VASP for electronic structure calculations using Density Functional Theory (DFT).
 - Conducted Non-adiabatic Molecular Dynamics simulation using the PYXAID program to study the ultrafast relaxation of electrons and calculated the relaxation time of a Sc2CO2 monolayer.
 
+
 ### Work Experience
 Private Math Tutor
 - Instructed high school students in mathematics and organized the annual teaching curriculum.
@@ -34,6 +38,7 @@ Sergeant, Republic of Korea Army, Camp Humphreys
 [Facebook](https://www.facebook.com/501MIBDE/)
 [Instagram](https://www.instagram.com/501stmib_t/)
 
+
 ### Awards
 - Academic Excellence Scholarship, Sungkyunkwan University
 - Dean’s List, the Pennsylvania State University
@@ -42,6 +47,7 @@ Sergeant, Republic of Korea Army, Camp Humphreys
   (Awarded for meritorious service to the Republic of Korea Army and the United States Army.)
 [Award Ceremony](https://www.facebook.com/share/p/178udpCNqw/?mibextid=wwXIfr)
 ![ARCOM](/assets/withCOL.jpg)
+
 
 ### Activities
 Samsung Institute of Technology Tutoring Program
@@ -53,6 +59,7 @@ SKKU Global Mentoring and Assisting People Program
 
 SKKU Coding Club (COMIT)
 - Organized a group of students and practiced coding using Python
+
 
 ### Skills
 English Proficiency
