@@ -40,6 +40,7 @@ Sergeant, Republic of Korea Army, Camp Humphreys
 - Dean’s List, Sungkyunkwan University
 - United States Army Commendation Medal
   (Awarded for meritorious service to the Republic of Korea Army and the United States Army.)
+[Award Ceremony](https://www.facebook.com/share/p/178udpCNqw/?mibextid=wwXIfr)
 ![ARCOM](/assets/withCOL.jpg)
 
 ### Activities
