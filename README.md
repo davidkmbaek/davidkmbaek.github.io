@@ -23,6 +23,16 @@ Sungkyunkwan University, Department of Chemistry
 - Analyzed the electronic properties of MXenes and applied VASP for electronic structure calculations using Density Functional Theory (DFT).
 - Conducted Non-adiabatic Molecular Dynamics simulation using the PYXAID program to study the ultrafast relaxation of electrons and calculated the relaxation time of a Sc2CO2 monolayer.
 
+### Work Experience
+Private Math Tutor
+- Instructed high school students in mathematics and organized the annual teaching curriculum.
+
+Sergeant, Republic of Korea Army, Camp Humphreys
+- Served as a KATUSA (Korean Augmentation to the United States Army), contributed to the alliance between Korean and American military personnel.
+- Conducted interpreting services in various operations and demonstrated leadership by guiding soldiers and promoting teamwork.
+- Managed social media accounts as the brigade’s Public Affairs Representative.
+  [Facebook] (https://www.facebook.com/501MIBDE/) [Instagram] (https://www.instagram.com/501stmib_t/)
+
 ### Awards
 - Academic Excellence Scholarship, Sungkyunkwan University
 - Dean’s List, the Pennsylvania State University
