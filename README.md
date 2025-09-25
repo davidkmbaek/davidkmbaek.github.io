@@ -2,28 +2,33 @@
 
 ## Education
 **Sungkyunkwan University**
+
 _Bachelor of Science in Chemical Engineering_
 - GPA: 3.9/4.0
 - Expected Graduation: February 2026
 
 **The Pennsylvania State University**
+
 _Exchange Student Program_
 - GPA: 4.0/4.0
 
 
 ## Research Experience
-### Sungkyunkwan University
+**Sungkyunkwan University**
 _Undergraduate Researcher, Department of Chemical Engineering_
+[MJKim Group](https://sites.google.com/view/mjkim-lab)
 - Synthesized silver and bismuth nanoparticles on graphite powders through the electroless deposition method and studied the growth of nanoparticles.
 - Analyzed the morphology and chemical property of metal nanoparticles on graphite.
 
-### The Pennsylvania State University
+**The Pennsylvania State University**
 _Undergraduate Researcher, Department of Chemical Engineering_
+[Fichthorn Group](https://sites.psu.edu/fichthornresearch/)
 - Analyzed the atomic interactions between cetyltrimethylammonium (CTA), Ag, Br, and Au to study the anisotropic growth mode of Au nanorods using VASP.
 - Optimized lattice structures and generated energetically favorable configurations of structures by using the grand canonical Monte Carlo method.
 
-### Sungkyunkwan University
+**Sungkyunkwan University**
 _Undergraduate Researcher, Department of Chemistry_
+[JYLee Group](https://home.skku.edu/~jinylee/)
 - Analyzed the electronic properties of MXenes and applied VASP for electronic structure calculations using Density Functional Theory (DFT).
 - Conducted Non-adiabatic Molecular Dynamics simulation using the PYXAID program to study the ultrafast relaxation of electrons and calculated the relaxation time of a Sc2CO2 monolayer.
 
