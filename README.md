@@ -31,7 +31,8 @@ Sergeant, Republic of Korea Army, Camp Humphreys
 - Served as a KATUSA (Korean Augmentation to the United States Army), contributed to the alliance between Korean and American military personnel.
 - Conducted interpreting services in various operations and demonstrated leadership by guiding soldiers and promoting teamwork.
 - Managed social media accounts as the brigade’s Public Affairs Representative.
-  [Facebook] (https://www.facebook.com/501MIBDE/) [Instagram] (https://www.instagram.com/501stmib_t/)
+[Facebook] (https://www.facebook.com/501MIBDE/)
+[Instagram] (https://www.instagram.com/501stmib_t/)
 
 ### Awards
 - Academic Excellence Scholarship, Sungkyunkwan University
