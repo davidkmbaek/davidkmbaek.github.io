@@ -1,38 +1,38 @@
 # Chemical Engineering Student
 
 ## Education
-### Sungkyunkwan University
-Bachelor of Science in Chemical Engineering
+**Sungkyunkwan University**
+_Bachelor of Science in Chemical Engineering_
 - GPA: 3.9/4.0
 - Expected Graduation: February 2026
 
-### The Pennsylvania State University
-Exchange Student Program
+**The Pennsylvania State University**
+_Exchange Student Program_
 - GPA: 4.0/4.0
 
 
 ## Research Experience
 ### Sungkyunkwan University
-Undergraduate Researcher, Department of Chemical Engineering
+_Undergraduate Researcher, Department of Chemical Engineering_
 - Synthesized silver and bismuth nanoparticles on graphite powders through the electroless deposition method and studied the growth of nanoparticles.
 - Analyzed the morphology and chemical property of metal nanoparticles on graphite.
 
 ### The Pennsylvania State University
-Undergraduate Researcher, Department of Chemical Engineering
+_Undergraduate Researcher, Department of Chemical Engineering_
 - Analyzed the atomic interactions between cetyltrimethylammonium (CTA), Ag, Br, and Au to study the anisotropic growth mode of Au nanorods using VASP.
 - Optimized lattice structures and generated energetically favorable configurations of structures by using the grand canonical Monte Carlo method.
 
 ### Sungkyunkwan University
-Undergraduate Researcher, Department of Chemistry
+_Undergraduate Researcher, Department of Chemistry_
 - Analyzed the electronic properties of MXenes and applied VASP for electronic structure calculations using Density Functional Theory (DFT).
 - Conducted Non-adiabatic Molecular Dynamics simulation using the PYXAID program to study the ultrafast relaxation of electrons and calculated the relaxation time of a Sc2CO2 monolayer.
 
 
 ## Work Experience
-### Private Math Tutor
+**Private Math Tutor**
 - Instructed high school students in mathematics and organized the annual teaching curriculum.
 
-### Sergeant, Republic of Korea Army, Camp Humphreys
+**Sergeant, Republic of Korea Army, Camp Humphreys**
 - Served as a KATUSA (Korean Augmentation to the United States Army), contributed to the alliance between Korean and American military personnel.
 - Conducted interpreting services in various operations and demonstrated leadership by guiding soldiers and promoting teamwork.
 - Managed social media accounts as the brigade’s Public Affairs Representative.
@@ -45,26 +45,26 @@ Undergraduate Researcher, Department of Chemistry
 - Dean’s List, the Pennsylvania State University
 - Dean’s List, Sungkyunkwan University
 - United States Army Commendation Medal
-  (Awarded for meritorious service to the Republic of Korea Army and the United States Army.)
+  (_Awarded for meritorious service to the Republic of Korea Army and the United States Army._)
 [Award Ceremony](https://www.facebook.com/share/p/178udpCNqw/?mibextid=wwXIfr)
 ![ARCOM](/assets/withCOL.jpg)
 
 
 ## Activities
-**Samsung Institute of Technology Tutoring Program
+**Samsung Institute of Technology Tutoring Program**
 - Tutored General Chemistry and Introduction to Materials Science to first year students from Samsung Institute of Technology.
 
-**SKKU Global Mentoring and Assisting People Program
+**SKKU Global Mentoring and Assisting People Program**
 - Provided academic and cultural support to exchange students coming to SKKU.
 - Assisted students with course selection, study strategies, and campus resources.
 
-**SKKU Coding Club (COMIT)
+**SKKU Coding Club (COMIT)**
 - Organized a group of students and practiced coding using Python
 
 
 ## Skills
-**English Proficiency
+**English Proficiency**
 - TOEFL: 111
 
-**Computer Applications
+**Computer Applications**
 - Python, Linux, MATLAB, VASP, VESTA, AMSjobs, Avogadro, Chemcraft
